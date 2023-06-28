@@ -1,1 +1,1 @@
-# hackbright-walmart-hackerrank
+# Hackbright/Walmart Hackerrank Assesment
