@@ -154,14 +154,14 @@
 // Shopping Cart
 // Figure out if you have enough cash to buy whatever is in the shopping cart
 
-function enough(shoppingArr, cash) {
-    let total = 0;
-    for (let i = 0; i < shoppingArr.length; i++) {
-        total += shoppingArr[i];
-        // console.log(total)
-    }
-    return cash > total;
-}
+// function enough(shoppingArr, cash) {
+//     let total = 0;
+//     for (let i = 0; i < shoppingArr.length; i++) {
+//         total += shoppingArr[i];
+//         // console.log(total)
+//     }
+//     return cash > total;
+// }
 
-console.log(enough([4, 3, 5], 9));
-console.log(enough([2, 1, 8], 30));
+// console.log(enough([4, 3, 5], 9));
+// console.log(enough([2, 1, 8], 30));
